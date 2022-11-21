@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TCG_Organizer.props" />
+</Project>
