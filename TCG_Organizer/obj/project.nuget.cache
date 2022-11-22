@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yYmsRc7PiIKC1Wf22AFGLROisNJ+NSWMpMpHynPMDFgUt+YXykeIBlgefv3INXk5RdO4HF0HIFwV/iFHZE4HeA==",
+  "dgSpecHash": "YAUXUcNZOX5YK49eJFHWPt8riPH0qpBymeOnioFj4uo5aKsh7aLFRxWPVw7bYVokl1A8f4wzLKy6lBDg1PqNbw==",
   "success": true,
-  "projectFilePath": "C:\\repos\\TCG_Organizer\\TCG_Organizer\\TCG_Organizer.csproj",
+  "projectFilePath": "C:\\repos\\TCGProject\\TCG_Organizer\\TCG_Organizer\\TCG_Organizer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JoshS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\JoshS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

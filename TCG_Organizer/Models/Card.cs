@@ -31,7 +31,7 @@ public class Card
     [StringLength(255)]
     public string? Notes { get; set; }
 
-
+    //Add in PhotoPath for an image of the cards??
 
 
 

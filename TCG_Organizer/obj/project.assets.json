@@ -10653,11 +10653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\TCG_Organizer\\TCG_Organizer\\TCG_Organizer.csproj",
+      "projectUniqueName": "C:\\repos\\TCGProject\\TCG_Organizer\\TCG_Organizer\\TCG_Organizer.csproj",
       "projectName": "TCG_Organizer",
-      "projectPath": "C:\\repos\\TCG_Organizer\\TCG_Organizer\\TCG_Organizer.csproj",
+      "projectPath": "C:\\repos\\TCGProject\\TCG_Organizer\\TCG_Organizer\\TCG_Organizer.csproj",
       "packagesPath": "C:\\Users\\JoshS\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\TCG_Organizer\\TCG_Organizer\\obj\\",
+      "outputPath": "C:\\repos\\TCGProject\\TCG_Organizer\\TCG_Organizer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JoshS\\AppData\\Roaming\\NuGet\\NuGet.Config",
