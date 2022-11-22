@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TCG_Organizer.Models;
 
@@ -28,8 +29,11 @@ public class Card
     [StringLength(50)]
     public string? Rarity { get; set; }
 
+    //[Column(TypeName = "decimal(11,2)")]
+    //public decimal Value { get; set; } = 0;
+
     [StringLength(255)]
-    public string? Notes { get; set; }
+    public string? Notes { get; set; } //could put value & value link in notes since it changes.
 
     //Add in PhotoPath for an image of the cards??
 
