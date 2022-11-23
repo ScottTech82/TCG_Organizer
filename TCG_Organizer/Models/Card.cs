@@ -38,7 +38,7 @@ public class Card
     //Add in PhotoPath for an image of the cards??
 
     public int UserId { get; set; } //FK to User
-    public virtual User User { get; set; }
+    public virtual User? User { get; set; }
 
 
 
