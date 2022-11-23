@@ -12,9 +12,10 @@ public class Deck
 
     public int TotalCards { get; set; }
 
-    public int DeckColors { get; set; } //show the available cards in the color scheme selected
-
     [StringLength(125)]
+    public string? DeckColors { get; set; } //show the available cards in the color scheme selected
+
+    [StringLength(255)]
     public string? Description { get; set; }
 
 
