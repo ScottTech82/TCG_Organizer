@@ -10,7 +10,7 @@ public class Deck
     [StringLength(30)]
     public string DeckName { get; set; } = "NEW";
 
-    public int TotalCards { get; set; }
+    public int TotalCards { get; set; } = 0;
 
     [StringLength(125)]
     public string? DeckColors { get; set; } //show the available cards in the color scheme selected
