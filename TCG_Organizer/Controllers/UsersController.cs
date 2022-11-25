@@ -44,7 +44,7 @@ namespace TCG_Organizer.Controllers
         [HttpGet("{username}/{password}")]
         public async Task<ActionResult<User>> Login(string username, string password)
         {
-            var user = await _context.Users.SingleOrDefaultAsync(x => x.Username && x.Password == password);
+            var user = await _context.Users.SingleOrDefaultAsync(x => x.Username == username && x.Password == password);
             if (user == null)
             {
                 return NotFound();
